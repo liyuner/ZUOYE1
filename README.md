@@ -24,3 +24,5 @@
  python train/model_train.py
 ```
 
+# 将三元组存入图数据库
+database.py
