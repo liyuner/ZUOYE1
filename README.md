@@ -28,5 +28,12 @@
 ```shell
  python database.py
 ```
+
 # 抽取的实体关系存入total.xlsx中
+
+# 爬取网页文本数据
+```shell
+ python csdn_articles.py
+```
+
 
