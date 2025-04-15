@@ -28,5 +28,5 @@
 ```shell
  python database.py
 ```
-# 抽取的实体关系存入total.xsxl中
+# 抽取的实体关系存入total.xlsx中
 
