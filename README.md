@@ -25,4 +25,7 @@
 ```
 
 # 将三元组存入图数据库
-database.py
+```shell
+ python database.py
+```
+
